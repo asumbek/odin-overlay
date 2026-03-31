@@ -3,6 +3,9 @@ name: Update manifests
 permissions:
   contents: write
 
+env:
+  GH_TOKEN: ${{ github.token }}
+
 on:
   schedule:
     - cron: "0,30 0/4 * * *"

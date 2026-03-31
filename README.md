@@ -22,7 +22,7 @@ in
 pkgs.mkShell [
   buildInputs = with pkgs.odinToolchains; [
     odin.latest
-    ols.latest
+    ols.dev-2026-03
   ]
 ]
 ```
