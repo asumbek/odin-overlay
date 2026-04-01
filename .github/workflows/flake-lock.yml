@@ -1,0 +1,33 @@
+name: Update flake.lock
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "12 0 * * 0"
+  push:
+    paths:
+      - ".github/workflows/flake-lock.yml"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v6
+
+      - name: Setup Lix
+        uses: canidae-solutions/lix-quick-install-action@v4
+      - name: Setup Git credentials
+        uses: fregante/setup-git-user@v2
+
+      - name: Update flake.lock
+        run: nix flake update
+
+      - name: Push changes
+        continue-on-error: true
+        run: |
+          git commit -am "update flake.lock"
+          git push
