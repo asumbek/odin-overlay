@@ -28,11 +28,11 @@
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1774357971,
-        "narHash": "sha256-rLZ5JC8BVGbhQuCDwLT6jFoPoF4tNA6wWmUtfxcknps=",
+        "lastModified": 1774963158,
+        "narHash": "sha256-NSZtIKbhJztbmkCGHWnB4EZWVUhFpGxBT4AJ08UsHVw=",
         "owner": "m15a",
         "repo": "flakelight-treefmt",
-        "rev": "270ca90aa2297cb2366a723fa09943cf8e221d23",
+        "rev": "117a383752662cff418447971c7ef3e5fbba0ac1",
         "type": "github"
       },
       "original": {
