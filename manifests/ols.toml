@@ -1,3 +1,35 @@
+[[dev-2026-04]]
+url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-arm64-unknown-linux-gnu.zip"
+hash = "sha256-uU8c9KhQZKe+vxP16+fpbedp+KR1Hi/2PYZPY/Mh+0U="
+
+[[dev-2026-04]]
+url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-arm64-darwin.zip"
+hash = "sha256-KRS7cA4iYGGOD+hXXDXWkcuUjXFjFNp7Ugy3MGh9JvI="
+
+[[dev-2026-04]]
+url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-x86_64-unknown-linux-gnu.zip"
+hash = "sha256-WkIp7zH4cO/KDz7yOqGZtg2Lh7wkzwwPetxWJo41HCo="
+
+[[dev-2026-04]]
+url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-x86_64-darwin.zip"
+hash = "sha256-lRezn9UP/LXB9ElR/RDsuAoBflc2O6QdOZw22VPlzxY="
+
+[[latest]]
+url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-arm64-unknown-linux-gnu.zip"
+hash = "sha256-uU8c9KhQZKe+vxP16+fpbedp+KR1Hi/2PYZPY/Mh+0U="
+
+[[latest]]
+url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-arm64-darwin.zip"
+hash = "sha256-KRS7cA4iYGGOD+hXXDXWkcuUjXFjFNp7Ugy3MGh9JvI="
+
+[[latest]]
+url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-x86_64-unknown-linux-gnu.zip"
+hash = "sha256-WkIp7zH4cO/KDz7yOqGZtg2Lh7wkzwwPetxWJo41HCo="
+
+[[latest]]
+url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-04/ols-x86_64-darwin.zip"
+hash = "sha256-lRezn9UP/LXB9ElR/RDsuAoBflc2O6QdOZw22VPlzxY="
+
 [[dev-2026-02]]
 url = "https://github.com/DanielGavin/ols/releases/download/dev-2026-02/ols-arm64-darwin.zip"
 hash = "sha256-JARE8RlbExRgpsXqJ83rsjWEeVtKekjBQsjngcBhrzw="
