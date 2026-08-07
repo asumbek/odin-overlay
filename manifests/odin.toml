@@ -1,3 +1,35 @@
+[[dev-2026-08]]
+url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-08/odin-linux-amd64-dev-2026-08.tar.gz"
+hash = "sha256-5rJ/LaZCfWn0QQ6jBwQakTb1ffY1hwVkXIzmMkeO2nI="
+
+[[dev-2026-08]]
+url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-08/odin-macos-amd64-dev-2026-08.tar.gz"
+hash = "sha256-gKj3rk1BZGAoDFfhGajePdAN4Vb/nIysiOL+WNkLXSo="
+
+[[dev-2026-08]]
+url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-08/odin-linux-arm64-dev-2026-08.tar.gz"
+hash = "sha256-LTlz9TfGZyF+kiIeJJyErGJ2qWg+8Y+cmEv1SJ+BfQQ="
+
+[[dev-2026-08]]
+url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-08/odin-macos-arm64-dev-2026-08.tar.gz"
+hash = "sha256-oV5RHyYg9E5EzDRT9CBVLkBKlil32l5b5Qkx2zaYJb8="
+
+[[latest]]
+url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-08/odin-linux-amd64-dev-2026-08.tar.gz"
+hash = "sha256-5rJ/LaZCfWn0QQ6jBwQakTb1ffY1hwVkXIzmMkeO2nI="
+
+[[latest]]
+url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-08/odin-macos-amd64-dev-2026-08.tar.gz"
+hash = "sha256-gKj3rk1BZGAoDFfhGajePdAN4Vb/nIysiOL+WNkLXSo="
+
+[[latest]]
+url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-08/odin-linux-arm64-dev-2026-08.tar.gz"
+hash = "sha256-LTlz9TfGZyF+kiIeJJyErGJ2qWg+8Y+cmEv1SJ+BfQQ="
+
+[[latest]]
+url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-08/odin-macos-arm64-dev-2026-08.tar.gz"
+hash = "sha256-oV5RHyYg9E5EzDRT9CBVLkBKlil32l5b5Qkx2zaYJb8="
+
 [[dev-2026-07a]]
 url = "https://github.com/odin-lang/Odin/releases/download/dev-2026-07a/odin-linux-amd64-dev-2026-07a.tar.gz"
 hash = "sha256-Peqisv0GEUAcbGAN+bTHk/lsFathmiuasZ5VbA4UuN0="
